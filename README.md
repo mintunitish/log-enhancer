@@ -19,7 +19,7 @@ Sometimes, we need more than just *stack trace* to debug the issue easily. The t
 
 1) Install the package by running this command in your terminal/cmd:
 ```
-composer require freshbitsweb/laravel-log-enhancer
+composer require awesome-people/laravel-log-enhancer
 ```
 
 2) Add this package's LogEnhancer class to the tap option of your log channel in **config/logging.php**:
