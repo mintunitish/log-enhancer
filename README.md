@@ -55,8 +55,6 @@ It has following configuration settings:
 
 * [**Nitish Kumar**](https://github.com/mintunitish)
 
-See also the list of [contributors](https://github.com/awesome-people-inc/log-enhancer/settings/collaboration) who participated in this project.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
