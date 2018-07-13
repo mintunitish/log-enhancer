@@ -1,5 +1,5 @@
 {
-    "name": "awesome-people-inc/laravel-log-enhancer",
+    "name": "awesome-people/laravel-log-enhancer",
     "description": "Adds more data to logs for easy debugging.",
     "type": "library",
     "require": {
@@ -16,9 +16,14 @@
     ],
     "minimum-stability": "dev",
     "prefer-stable": true,
+    "require-dev": {
+        "phpunit/phpunit": "^7.0",
+        "orchestra/testbench": "~3.6.0"
+    },
     "autoload": {
         "psr-4": {
-            "AwesomePeople\\LaravelLogEnhancer\\": "src/"
+            "AwesomePeople\\LaravelLogEnhancer\\": "src/",
+            "AwesomePeople\\LaravelLogEnhancer\\Test\\": "tests"
         }
     },
     "extra": {
