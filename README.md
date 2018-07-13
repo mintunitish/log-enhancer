@@ -1,7 +1,7 @@
-[![Total Downloads](https://poser.pugx.org/awesome-people-inc/log-enhancer/downloads)](https://packagist.org/packages/awesome-people-inc/log-enhancer)
-[![Latest Stable Version](https://poser.pugx.org/awesome-people-inc/log-enhancer/v/stable)](https://packagist.org/packages/awesome-people-inc/log-enhancer)
-[![License](https://poser.pugx.org/awesome-people-inc/log-enhancer/license)](https://packagist.org/packages/awesome-people-inc/log-enhancer)
-[![Daily Downloads](https://poser.pugx.org/awesome-people-inc/log-enhancer/d/daily)](https://packagist.org/packages/awesome-people-inc/log-enhancer)
+[![Latest Stable Version](https://poser.pugx.org/awesome-people/laravel-log-enhancer/v/stable?format=flat-square)](https://packagist.org/packages/awesome-people/laravel-log-enhancer)
+[![Total Downloads](https://poser.pugx.org/awesome-people/laravel-log-enhancer/downloads?format=flat-square)](https://packagist.org/packages/awesome-people/laravel-log-enhancer)
+[![License](https://poser.pugx.org/awesome-people/laravel-log-enhancer/license?format=flat-square)](https://packagist.org/packages/awesome-people/laravel-log-enhancer)
+[![Monthly Downloads](https://poser.pugx.org/awesome-people/laravel-log-enhancer/d/monthly?format=flat-square)](https://packagist.org/packages/awesome-people/laravel-log-enhancer)
 
 # Log Enhancer (Laravel 5.6)
 Laravel's logging system helps a lot for storing data as well as while troubleshooting some hidden bugs. The data related to the exception automatically gets logged whenever something goes wrong.
