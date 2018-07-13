@@ -26,7 +26,7 @@ composer require freshbitsweb/laravel-log-enhancer
 ```
 'production_stack' => [
     'driver' => 'stack',
-    'tap' => [Freshbitsweb\LaravelLogEnhancer\LogEnhancer::class],
+    'tap' => [AwesomePeople\LaravelLogEnhancer\LogEnhancer::class],
     'channels' => ['daily', 'slack'],
 ],
 ```
