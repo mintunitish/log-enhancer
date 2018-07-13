@@ -28,7 +28,7 @@ class LogEnhancerTest extends TestCase
             if (config('laravel_log_enhancer.log_memory_usage')) {
                 $this->assertInstanceOf(MemoryUsageProcessor::class, $handler->popProcessor());
             }
-            $this->assertInstanceOf(RequestDataProcessor::class, $handler->popProcessor());
+            $this->assertInstanceOf(RequestDataHandler::class, $handler->popProcessor());
             if (config('laravel_log_enhancer.log_request_details')) {
                 $this->assertInstanceOf(WebProcessor::class, $handler->popProcessor());
             }
