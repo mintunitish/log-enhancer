@@ -4,7 +4,6 @@ install:
 php:
   - 7.1
   - 7.2
-  - hhvm
 
 script:
   - mkdir -p build/logs
