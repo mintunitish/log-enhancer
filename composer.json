@@ -23,7 +23,7 @@
     "autoload": {
         "psr-4": {
             "AwesomePeople\\LaravelLogEnhancer\\": "src/",
-            "AwesomePeople\\LaravelLogEnhancer\\Test\\": "tests"
+            "AwesomePeople\\LaravelLogEnhancer\\Test\\": "tests/"
         }
     },
     "extra": {
