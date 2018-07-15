@@ -3,6 +3,7 @@
 [![License](https://poser.pugx.org/awesome-people/laravel-log-enhancer/license?format=flat-square)](https://packagist.org/packages/awesome-people/laravel-log-enhancer)
 [![Monthly Downloads](https://poser.pugx.org/awesome-people/laravel-log-enhancer/d/monthly?format=flat-square)](https://packagist.org/packages/awesome-people/laravel-log-enhancer)
 [![codecov](https://codecov.io/gh/awesome-people-inc/log-enhancer/branch/master/graph/badge.svg)](https://codecov.io/gh/awesome-people-inc/log-enhancer/branch/master)
+[![Build Status](https://travis-ci.com/awesome-people-inc/log-enhancer.svg?branch=master)](https://travis-ci.com/awesome-people-inc/log-enhancer)
 
 # Log Enhancer (Laravel 5.6)
 Laravel's logging system helps a lot for storing data as well as while troubleshooting some hidden bugs. The data related to the exception automatically gets logged whenever something goes wrong.
