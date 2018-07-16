@@ -2,7 +2,6 @@
 [![Total Downloads](https://poser.pugx.org/awesome-people/laravel-log-enhancer/downloads?format=flat-square)](https://packagist.org/packages/awesome-people/laravel-log-enhancer)
 [![License](https://poser.pugx.org/awesome-people/laravel-log-enhancer/license?format=flat-square)](https://packagist.org/packages/awesome-people/laravel-log-enhancer)
 [![Monthly Downloads](https://poser.pugx.org/awesome-people/laravel-log-enhancer/d/monthly?format=flat-square)](https://packagist.org/packages/awesome-people/laravel-log-enhancer)
-[![codecov](https://codecov.io/gh/awesome-people-inc/log-enhancer/branch/master/graph/badge.svg)](https://codecov.io/gh/awesome-people-inc/log-enhancer/branch/master)
 [![Build Status](https://travis-ci.com/awesome-people-inc/log-enhancer.svg?branch=master)](https://travis-ci.com/awesome-people-inc/log-enhancer)
 
 # Log Enhancer (Laravel 5.6)
@@ -39,7 +38,7 @@ php artisan vendor:publish --tag=laravel-log-enhancer-config
 ```
 
 It has following configuration settings:
-* (bool) log_request_details => Set to *true* if you wish to log request data. [Reference](https://github.com/Seldaek/monolog/blob/master/src/Monolog/Processor/WebProcessor.php)
+* (bool) log_request_details => Set to *true* if you wish to log request data. [(Reference)](https://github.com/Seldaek/monolog/blob/master/src/Monolog/Processor/WebProcessor.php)
 
 * (bool) log_input_data => Set to *true* if you wish to log user input data
 
@@ -47,9 +46,9 @@ It has following configuration settings:
 
 * (bool) log_session_data => Set to *true* if you wish to log session data
 
-* (bool) log_memory_usage => Set to *true* if you wish to log memory usage [Reference](https://github.com/Seldaek/monolog/blob/master/src/Monolog/Processor/MemoryUsageProcessor.php)
+* (bool) log_memory_usage => Set to *true* if you wish to log memory usage. [(Reference)](https://github.com/Seldaek/monolog/blob/master/src/Monolog/Processor/MemoryUsageProcessor.php)
 
-* (bool) log_git_data => Set to *true* if you wish to log git branch and commit details [Reference](https://github.com/Seldaek/monolog/blob/master/src/Monolog/Processor/GitProcessor.php)
+* (bool) log_git_data => Set to *true* if you wish to log git branch and commit details. [(Reference)](https://github.com/Seldaek/monolog/blob/master/src/Monolog/Processor/GitProcessor.php)
 
 * (array) ignore_input_fields => If input data is being sent, you can specify the inputs from the user that should not be logged. for example, password,cc number, etc.
 
