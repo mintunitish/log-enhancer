@@ -3,6 +3,7 @@
 [![License](https://poser.pugx.org/mintunitish/laravel-log-enhancer/license?format=flat-square)](https://packagist.org/packages/mintunitish/laravel-log-enhancer)
 [![Monthly Downloads](https://poser.pugx.org/mintunitish/laravel-log-enhancer/d/monthly?format=flat-square)](https://packagist.org/packages/mintunitish/laravel-log-enhancer)
 [![Build Status](https://travis-ci.com/mintunitish/log-enhancer.svg?branch=master)](https://travis-ci.com/mintunitish/log-enhancer)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/14fc40ee90574ac38e88e1806f8223b6)](https://www.codacy.com/project/mintu.nitish/log-enhancer/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=awesome-people-inc/log-enhancer&amp;utm_campaign=Badge_Grade_Dashboard)
 
 # Log Enhancer (Laravel 5.6)
 Laravel's logging system helps a lot for storing data as well as while troubleshooting some hidden bugs. The data related to the exception automatically gets logged whenever something goes wrong.
