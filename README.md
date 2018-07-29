@@ -26,7 +26,7 @@ composer require mintunitish/laravel-log-enhancer
 
 2) Add this package's LogEnhancer class to the tap option of your log channel in **config/logging.php**:
 ```
-'production_stack' => [
+'stack' => [
     'driver' => 'stack',
     'tap' => [AwesomePeople\LaravelLogEnhancer\LogEnhancer::class],
     'channels' => ['daily', 'slack'],
