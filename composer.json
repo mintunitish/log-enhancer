@@ -1,5 +1,5 @@
 {
-    "name": "awesome-people/laravel-log-enhancer",
+    "name": "mintunitish/laravel-log-enhancer",
     "description": "Adds more data to logs for easy debugging.",
     "type": "library",
     "require": {
